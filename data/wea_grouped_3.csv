@@ -1,6 +1,4 @@
-,,temp,temp,temp,pressure,pressure,pressure,humidity,humidity,humidity,wind_speed,wind_speed,wind_speed,rain_1h,rain_1h,rain_1h,rain_3h,rain_3h,rain_3h,snow_3h,snow_3h,snow_3h,clouds_all,clouds_all,clouds_all
-,,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean
-,city_name,,,,,,,,,,,,,,,,,,,,,,,,
+date,city_name,temp min,temp max,temp mean,pressure min,pressure max,pressure mean,humidity min,humidity max,humidity mean,wind_speed min,wind_speed max,wind_speed mean,rain_1h min,rain_1h max,rain_1h mean,rain_3h min,rain_3h max,rain_3h mean,snow_3h min,snow_3h max,snow_3h mean,clouds_all min,clouds_all max,clouds_all mean
 2015-01-01,Barcelona,280.467,284.6023125,282.4879453125,1035,1038,1036.5833333333333,57,100,90.45833333333333,2,7,4.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
 2015-01-01,Bilbao,269.20334375,284.5916875,274.98761328125,1035,1036,1035.6666666666667,48,97,82.29166666666667,0,1,0.7916666666666666,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,24,3.8333333333333335
 2015-01-01,Madrid,265.442,283.3083125,272.1848190104167,971,1036,988.3333333333334,45,75,62.541666666666664,0,1,0.875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
